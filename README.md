@@ -60,3 +60,8 @@ The goal of this project was to design and deploy a data pipeline that:
 
 ## 📊 Example Flow
 
+<img width="1796" height="666" alt="image" src="https://github.com/user-attachments/assets/917b7da9-b20d-46d4-bf2f-0aba170adfe6" />
+<img width="1809" height="741" alt="image" src="https://github.com/user-attachments/assets/5893edae-f784-4f9b-b278-c2b3d0700c72" />
+
+
+
